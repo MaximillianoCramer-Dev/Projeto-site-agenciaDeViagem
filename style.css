@@ -1,0 +1,30 @@
+header > p {
+    color: white;
+    text-shadow: 1px 1px 5px black;
+}
+
+header .carousel-item img {
+    max-width: 100% !important;
+    height: 500px !important;
+    width: 2000px !important;
+    object-fit: cover !important;
+    margin: 0 auto !important;
+}
+
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+footer > p > a{
+    text-decoration: none;
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color: #ffc107;
+    text-shadow: 2px 2px 2px black;
+} 
